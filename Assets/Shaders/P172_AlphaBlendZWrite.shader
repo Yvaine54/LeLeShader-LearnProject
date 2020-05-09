@@ -13,10 +13,10 @@
 			"RenderType" = "Transparent" 
 		}
 			
-		/*Pass{
+		Pass{
 			ZWrite On
 			ColorMask 0
-		}*/
+		}
 
 		Pass{
 			Name"FORWARD"

@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: P170_Mat_AlphaBlend
-  m_Shader: {fileID: 4800000, guid: f7a89a9731ebadb478b4e607e5010355, type: 3}
+  m_Shader: {fileID: 4800000, guid: e893268b2f19f89458bcb523604b7754, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0

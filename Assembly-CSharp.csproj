@@ -67,11 +67,12 @@
     <None Include="Assets\Shaders\P135_BlinnPhong.shader" />
     <None Include="Assets\Shaders\P132_SpecularVertexLevel.shader" />
     <None Include="Assets\Shaders\Chapter7-NormalMapTangentSpace.shader" />
+    <None Include="Assets\Shaders\P176_AlphaTestBothSided.shader" />
     <None Include="Assets\Shaders\P166_AlphaTest.shader" />
     <None Include="Assets\Shaders\P134_SpecularPixelLevel.shader" />
     <None Include="Assets\Shaders\P149_NormalMapTangentSpace.shader" />
     <None Include="Assets\Shaders\S1huizhu_2.shader" />
-    <None Include="Assets\Shaders\P170_AlphaBlend.shader" />
+    <None Include="Assets\Shaders\P177_AlphaBlendBothSided.shader" />
     <None Include="Assets\Shaders\P131_HalfLambert.shader" />
     <None Include="Assets\Shaders\P105_Simple Shader_Code.shader" />
     <None Include="Assets\Shaders\P127_DiffuseVertexLevel.shader" />
@@ -79,10 +80,13 @@
     <None Include="Assets\Shaders\P138_BlinnPhongUseBuildInFunction.shader" />
     <None Include="Assets\Shaders\P106_Simple Shader.shader" />
     <None Include="Assets\Shaders\P106_Simple Shader_Code.shader" />
+    <None Include="Assets\Shaders\P170_AlphaBlend 1.shader" />
     <None Include="Assets\Shaders\P156_RampTexture.shader" />
     <None Include="Assets\Shaders\Chapter6-BlinnPhongUseBuildInFunctions.shader" />
     <None Include="Assets\Shaders\P152_NormalMapWorldSpace.shader" />
+    <None Include="Assets\Shaders\Chapter8-AlphaTestBothSided.shader" />
     <None Include="Assets\Shaders\P111_False Color.shader" />
+    <None Include="Assets\Shaders\P177_AlphaBlendBothSidedTest.shader" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/2018 U3D/2018.2/LELEShader/LELEShader/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
